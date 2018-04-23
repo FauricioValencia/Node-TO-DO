@@ -1,6 +1,7 @@
 # Aplicación de comandos
 
-##Instalacciones necesarias
+## Instalacciones necesarias
+
 ```
 npm install
 ```
